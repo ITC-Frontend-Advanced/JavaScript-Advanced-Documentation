@@ -14,3 +14,7 @@
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [Integrations](basics/integrations.md)
+
+## Courses
+
+* [ECMA Script Part 2](courses/part-2.md)
